@@ -6,11 +6,11 @@
     <img src="tesla.png">
 </h1>
 
-<h2>🚨 about</h2>
+<h2>🚨 Sobre </h2>
 
-Home page project for the tesla website, made for studies only.
+Projeto Clono home page tesla. Feito com HTML CSS e JS Vanilla.
 
-<h2>🔨 Tools</h2>
+<h2>🔨 Ferramentas </h2>
 
 - HTML
 - CSS
